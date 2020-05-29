@@ -1,0 +1,25 @@
+Task:
+
+You have to write a program in C++ that can be used to sell ice cream.
+
+Initial Situation:
+
+You have a 5 euro note and want to buy ice cream for yourself and your two friends.
+
+The following types of ice cream are available:
+
+    Capri: €1.10
+    Nogger: €1.60
+    Cornetto: €2.30
+
+Create a program that covers the following situation:
+
+First, the list of the different types of ice cream is displayed and you will be asked to place an ice cream order. The orders are read in using "cin".
+
+This process is repeated until you have placed all your orders. Your two friends are allowed to choose the ice cream first.
+
+With the remaining money you can choose an ice cream for yourself. But it could also be that you have to refrain from buying some ice cream for yourself.
+
+Finally, the total amount as well as the change is calculated and displayed on the screen in euros and cents.
+
+Use comments in the source code to document your program.
